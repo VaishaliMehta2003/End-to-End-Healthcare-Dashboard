@@ -40,7 +40,7 @@ How are waitlists distributed across different case types (Outpatient, Day Case,
 Which age groups are experiencing the longest waiting times?<br>
 
 8. Demo/Screenshort
-   https://github.com/VaishaliMehta2003/End-to-End-Healthcare-Dashboard/blob/main/Slide1.PNG
+   https://github.com/VaishaliMehta2003/End-to-End-Healthcare-Dashboard/blob/main/Slide1.PNG<br>
    https://github.com/VaishaliMehta2003/End-to-End-Healthcare-Dashboard/blob/main/Slide%202.png
 
  
