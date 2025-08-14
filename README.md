@@ -1,13 +1,14 @@
 # End-to-End-Healthcare-Dashboard
-1. Title: Healthcare Waitlist Analytics Dashboard 
+1. Title: Healthcare Waitlist Analytics Dashboard
+<br>
 This interactive and data-driven Power BI dashboard delivers deep insights into healthcare patient waitlists spanning January 2018 to March 2021.
 
-2. Objective :
+3. Objective :
 This Power BI dashboard Visualizes and Track current status of patient waiting list .
 Analyze historical monthly trend of waiting list in Inpatient & Outpatient categories.
 Detailed specialty level & age profile analysis.
 
-3. Tech Stack :
+4. Tech Stack :
 The dashboard was built using the following tools and technologies:
 .  Power BI Desktop Main data visualization platform used for report creation.
 .  Power Query Data transformation and cleaning layer for reshaping and preparing the data.
